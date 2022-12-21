@@ -11,11 +11,28 @@
             "id": "4a5527b5cde31836",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Papermill notebook to function.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bb55fe3c5659106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "No Code Solutions.md.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "No Code Solutions.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "No Code Solutions.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "No Code Solutions.md.md"
+              }
             }
           }
         ]
@@ -128,6 +149,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a5527b5cde31836",
-  "lastOpenFiles": []
+  "active": "7bb55fe3c5659106",
+  "lastOpenFiles": [
+    "Papermill notebook to function.md.md"
+  ]
 }
